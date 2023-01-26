@@ -1,0 +1,103 @@
+* {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#main {
+    text-align: center;
+    background-color: #f5f6f7;
+    margin: 40px 10px;
+    border-radius: 10px;
+}
+
+#title {
+    color: #444848;
+    font-size: 3em;
+    padding-top: 25px;
+}
+
+.parrafo-1 {
+    color: #444848;
+    font-size: 1.15em;
+}
+
+.parrafo-2 {
+    color: #444848;
+    font-size: 1.15em;
+}
+
+#img-div {
+    background-color: #e4e4ea;
+    padding: 30px;
+    margin: 40px 20px;
+    border-radius: 10px;
+}
+
+#image {
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px black;
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+
+#img-caption {
+    display: block;
+}
+
+figcaption {
+    margin: 0 20px;
+    padding-top: 25px;
+}
+
+#tribute-info .logros {
+    color: #444848;
+    font-size: 1.4em;
+    padding: 20px 0;
+    margin: 0;
+}
+
+ul {
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 550px;
+    line-height: 40px;
+}
+
+blockquote {
+    margin: 0 auto 50px auto;
+    text-align: left;
+    max-width: 550px;
+    font-size: 0.99em;
+}
+
+.parrafo-3 {
+    font-style: italic;
+}
+
+.final {
+    padding-bottom: 20px;
+    background-color: #e4e4ea;
+    border-radius: 10px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.pf {
+    font-size: 1.3em;
+    color: #444848;
+    font-family: verdana;
+}
+
+#tribute-link {
+    text-decoration: none;
+    color: #214747;
+}
+
+#tribute-link:hover {
+    text-decoration: underline wavy rgb(72, 72, 93);
+}
